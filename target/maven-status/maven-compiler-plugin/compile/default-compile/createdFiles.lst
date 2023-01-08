@@ -1,0 +1,7 @@
+com\demo\service\ServiceImpl.class
+com\demo\dao\Dao.class
+com\demo\dao\DaoImpl.class
+com\demo\dao\HBUtil.class
+com\demo\beans\Product.class
+Test.class
+com\demo\service\Service.class
